@@ -1,0 +1,9 @@
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\bin\Debug\netcoreapp3.1\BookDesk.deps.json
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\bin\Debug\netcoreapp3.1\BookDesk.dll
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\bin\Debug\netcoreapp3.1\BookDesk.pdb
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\obj\Debug\netcoreapp3.1\BookDesk.csprojAssemblyReference.cache
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\obj\Debug\netcoreapp3.1\BookDesk.AssemblyInfoInputs.cache
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\obj\Debug\netcoreapp3.1\BookDesk.AssemblyInfo.cs
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\obj\Debug\netcoreapp3.1\BookDesk.csproj.CoreCompileInputs.cache
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\obj\Debug\netcoreapp3.1\BookDesk.dll
+E:\DotNetFreshersBatchJan2021\DotNetCore\BookDesk\BookDesk\obj\Debug\netcoreapp3.1\BookDesk.pdb
